@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 int main(){
 	float a,b,c,det,x1,x2;
 	printf("Enter the cofficent of quadratic equation");
